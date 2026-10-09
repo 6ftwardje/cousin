@@ -1,0 +1,9 @@
+dist/
+.DS_Store
+node_modules/
+.playwright-cli/
+.impeccable/
+.env
+.env.*
+!.env.example
+*.log

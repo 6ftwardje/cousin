@@ -1,0 +1,241 @@
+{
+  "brand": {
+    "name": "Cousin",
+    "location": "Aalter",
+    "email": "contact@bycousin.be",
+    "phone": "+32 472 32 04 74",
+    "phoneHref": "+32472320474",
+    "bookingUrl": null,
+    "instagramUrl": null,
+    "publicAddress": null,
+    "openingHours": null
+  },
+  "home": {
+    "eyebrow": "HAIR SALON · AALTER",
+    "headline": [
+      "Good hair.",
+      "Better mood."
+    ],
+    "intro": "Jouw haar. Jouw karakter. Een frisse kijk op beide.",
+    "storyEyebrow": "AANGENAAM, COUSIN.",
+    "storyTitle": [
+      "Een nieuwe look.",
+      "Een vertrouwd gevoel."
+    ],
+    "storyText": "Mooi haar begint bij je goed voelen. Bij Cousin draait het om een coupe die bij jou past, een kleur die je laat stralen en de ruimte om even jezelf te zijn.",
+    "storyNote": "Kom zoals je bent. Ga buiten met een goed gevoel.",
+    "servicesTitle": [
+      "Small change.",
+      "Big feeling."
+    ],
+    "galleryTitle": [
+      "A little",
+      "hair inspiration."
+    ],
+    "galleryIntro": "Textuur, beweging en een eigen karakter. Dit is de sfeer die we voor Cousin voor ogen hebben.",
+    "teamTitle": [
+      "Een goed gevoel",
+      "begint met een klik."
+    ],
+    "teamText": "Maak kennis met Bjarne, het gezicht achter Cousin. Want je haar laat je het liefst over aan iemand bij wie je je op je gemak voelt.",
+    "ctaTitle": [
+      "Toe aan iets",
+      "fris?"
+    ],
+    "ctaText": "Een kleine refresh of een heel nieuw hoofdstuk. We denken graag met je mee."
+  },
+  "about": {
+    "eyebrow": "HET VERHAAL ACHTER COUSIN",
+    "title": [
+      "Een plek voor",
+      "jouw eigen stijl."
+    ],
+    "intro": "Een nieuwe generatie kapsalon in Aalter. Persoonlijk, ontspannen en met oog voor wat bij jou past.",
+    "heading": [
+      "Meer dan",
+      "een nieuwe coupe."
+    ],
+    "paragraphs": [
+      "Soms weet je precies wat je wil. Soms heb je alleen zin in iets anders. Bij Cousin begint het met luisteren: naar je ideeën, je gewoontes en wat je haar nodig heeft.",
+      "Van daaruit zoeken we samen naar een look die klopt. Iets waar je je goed bij voelt, in de stoel én de dagen erna."
+    ],
+    "values": [
+      {
+        "title": "Helemaal jij.",
+        "text": "Een look die past bij jouw haar en jouw dagelijkse leven."
+      },
+      {
+        "title": "Op je gemak.",
+        "text": "Een ontspannen moment, met ruimte om samen te kijken wat werkt."
+      },
+      {
+        "title": "Een frisse blik.",
+        "text": "Een subtiele verandering of iets helemaal nieuws. We denken mee."
+      }
+    ]
+  },
+  "services": [
+    {
+      "id": "cut",
+      "number": "01",
+      "name": "Cut.",
+      "label": "Knippen & vorm",
+      "description": "Van een frisse knipbeurt tot een andere vorm. We vertrekken vanuit je haar, je gezicht en je eigen stijl.",
+      "items": [
+        "Knippen",
+        "Restyling",
+        "Persoonlijk advies"
+      ],
+      "priceFrom": null,
+      "image": "look-03.webp"
+    },
+    {
+      "id": "colour",
+      "number": "02",
+      "name": "Colour.",
+      "label": "Kleur & karakter",
+      "description": "Een zachte nuance of een nieuwe richting. Samen bekijken we welke kleur en techniek bij je passen.",
+      "items": [
+        "Kleuring",
+        "Highlights",
+        "Kleuradvies"
+      ],
+      "priceFrom": null,
+      "image": "hero.webp"
+    },
+    {
+      "id": "style",
+      "number": "03",
+      "name": "Style.",
+      "label": "Styling & finish",
+      "description": "Beweging, textuur en de juiste afwerking. Voor een bijzonder moment of gewoon omdat je daar zin in hebt.",
+      "items": [
+        "Brushing",
+        "Styling",
+        "Afwerking"
+      ],
+      "priceFrom": null,
+      "image": "salon.webp"
+    }
+  ],
+  "servicesPage": {
+    "eyebrow": "SERVICES & PRIJZEN",
+    "title": [
+      "Your hair.",
+      "Your thing."
+    ],
+    "intro": "Knippen, kleuren en stylen. Ontdek de mogelijkheden en laat ons meedenken over jouw volgende look.",
+    "priceNote": "De definitieve behandelingen en prijzen volgen nog. Contacteer ons gerust voor persoonlijk advies.",
+    "faq": [
+      {
+        "question": "Ik weet nog niet precies wat ik wil. Wat nu?",
+        "answer": "Dat hoeft ook niet. Vertel ons wat je mooi vindt en hoe je je haar meestal draagt. Samen bekijken we de mogelijkheden. Een paar inspiratiebeelden kunnen helpen."
+      },
+      {
+        "question": "Hoe maak ik een afspraak?",
+        "answer": "Bel of mail ons om een afspraak te bespreken. De online boekingslink via Salonkee wordt hier later toegevoegd."
+      },
+      {
+        "question": "Waar vind ik de prijzen?",
+        "answer": "De prijslijst wordt aangevuld zodra alle behandelingen en tarieven bevestigd zijn. Voor een prijsindicatie kan je rechtstreeks contact opnemen met Cousin."
+      }
+    ]
+  },
+  "team": {
+    "eyebrow": "DE MENSEN ACHTER JE LOOK",
+    "title": [
+      "Good people.",
+      "Good hair."
+    ],
+    "intro": "Een goed kapsel begint met een goed gesprek. Aangenaam, wij zijn Cousin.",
+    "members": [
+      {
+        "name": "Bjarne",
+        "role": "Het gezicht achter Cousin",
+        "bio": "De persoon achter een nieuw hoofdstuk voor haar in Aalter. Vertel wat je in gedachten hebt en ontdek samen welke richting bij je past.",
+        "portrait": null
+      }
+    ]
+  },
+  "gallery": {
+    "eyebrow": "THE COUSIN MOOD",
+    "title": [
+      "Less scrolling.",
+      "More inspiration."
+    ],
+    "intro": "Een eerste moodboard vol vorm, textuur en persoonlijkheid. Laat je inspireren voor je volgende look.",
+    "note": "Dit zijn tijdelijke sfeerbeelden. Hier komt binnenkort het eigen werk en salon van Cousin.",
+    "filters": [
+      {
+        "id": "all",
+        "label": "Alles"
+      },
+      {
+        "id": "hair",
+        "label": "Hair inspiration"
+      },
+      {
+        "id": "salon",
+        "label": "Salon vibes"
+      }
+    ],
+    "images": [
+      {
+        "src": "hero.webp",
+        "alt": "Sfeerbeeld: lange, zachte golven in natuurlijk bruin haar",
+        "category": "hair",
+        "caption": "Soft movement",
+        "credit": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1"
+      },
+      {
+        "src": "look-03.webp",
+        "alt": "Sfeerbeeld: kort natuurlijk haar met veel textuur",
+        "category": "hair",
+        "caption": "Natural texture",
+        "credit": "https://images.unsplash.com/photo-1531123897727-8f129e1688ce"
+      },
+      {
+        "src": "studio.webp",
+        "alt": "Sfeerbeeld van een salon met ronde spiegels en donkere stoelen",
+        "category": "salon",
+        "caption": "A moment for yourself",
+        "credit": "https://images.unsplash.com/photo-1600948836101-f9ffda59d250"
+      },
+      {
+        "src": "look-04.webp",
+        "alt": "Sfeerbeeld: korte herencoupe met een natuurlijke finish",
+        "category": "hair",
+        "caption": "Keep it personal",
+        "credit": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d"
+      },
+      {
+        "src": "look-01.webp",
+        "alt": "Sfeerbeeld: lang kastanjebruin haar in natuurlijk licht",
+        "category": "hair",
+        "caption": "Everyday character",
+        "credit": "https://images.unsplash.com/photo-1529626455594-4ff0802cfb7e"
+      },
+      {
+        "src": "salon.webp",
+        "alt": "Sfeerbeeld van een brushing in een licht kapsalon",
+        "category": "salon",
+        "caption": "The finishing touch",
+        "credit": "https://images.unsplash.com/photo-1562322140-8baeececf3df"
+      }
+    ]
+  },
+  "contact": {
+    "eyebrow": "ZEG EENS HALLO",
+    "title": [
+      "Let's talk",
+      "good hair."
+    ],
+    "intro": "Een vraag, een idee of zin in een nieuwe look? We horen graag van je.",
+    "locationNote": "Het exacte salonadres en de route volgen binnenkort.",
+    "hoursNote": "De openingsuren worden binnenkort aangevuld. Bel of mail ons om een moment af te spreken."
+  },
+  "preview": {
+    "label": "Eerste ontwerp · 01",
+    "text": "Dit is een eerste ontwerpbasis. De teksten en services zijn voorstellen. De fotografie bestaat uit tijdelijke Unsplash-sfeerbeelden en toont geen eigen klanten, medewerkers of salon van Cousin. Prijzen, openingsuren, salonadres, social links en de Salonkee-link worden nog bevestigd."
+  }
+}

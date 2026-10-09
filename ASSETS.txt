@@ -1,0 +1,21 @@
+TIJDELIJKE SFEERBEELDEN — UNSPLASH
+Deze beelden zijn visuele placeholders en vertegenwoordigen geen eigen werk,
+medewerkers, klanten of salon van Cousin. De website benoemt ze als sfeerbeeld.
+Voor publicatie vervangen door goedgekeurd klantmateriaal of opnieuw beoordelen.
+
+hero.webp:
+https://images.unsplash.com/photo-1524504388940-b1c1722653e1
+look-01.webp:
+https://images.unsplash.com/photo-1529626455594-4ff0802cfb7e
+look-03.webp:
+https://images.unsplash.com/photo-1531123897727-8f129e1688ce
+look-04.webp:
+https://images.unsplash.com/photo-1506794778202-cad84cf45f1d
+studio.webp:
+https://images.unsplash.com/photo-1600948836101-f9ffda59d250
+salon.webp:
+https://images.unsplash.com/photo-1562322140-8baeececf3df
+
+Logo: public/images/cousin-logo.png, aangeleverd door opdrachtgever.
+Font: Manrope, https://fonts.google.com/specimen/Manrope
+Fontlicentie: public/fonts/OFL.txt

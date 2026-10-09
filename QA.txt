@@ -1,0 +1,32 @@
+COUSIN — CONTROLE EERSTE BASIS
+9 oktober 2026
+
+Geslaagd: npm run check (zes pagina's, één h1 per pagina, titels/descriptions,
+noindex, lokale assets, interne links en service-ankers).
+Geslaagd: JavaScript-syntax van main.js, render.mjs en dev.mjs.
+Geslaagd: alle zes routes geven HTTP 200 in Chromium op 320, 390, 768 en
+1440 pixels breed. Geen horizontale overflow op deze 24 combinaties.
+Geslaagd: boekingsdialoog opent, bevat bevestigde tel:/mailto:-links en
+sluit met Escape. Er wordt geen boeking ingestuurd of gesimuleerd.
+Geslaagd: mobiel menu opent, toont zes routes en sluit met Escape.
+Geslaagd: filter Salon vibes toont exact twee beelden en past de teller aan.
+Geslaagd: geselecteerd gallerybeeld opent vergroot met de juiste alt-tekst;
+Escape sluit het venster.
+Geslaagd: op 375 x 667 passen header (74 px) en hero (593 px) samen in
+de eerste viewport, zonder horizontale overflow.
+Geslaagd: weergave met prefers-reduced-motion respecteert verminderde beweging.
+
+Screenshots: ../output/playwright/cousin-*.png.
+Visuele controle: home desktop/mobiel, volledige home, services en gallery.
+Browsercontrole is uitgevoerd in Chromium met gesimuleerde schermbreedtes.
+Safari, Firefox en fysieke telefoons moeten later nog getest worden.
+Salonkee, Maps, analytics/consent en definitieve juridische inhoud volgen
+nadat gegevens en integraties bevestigd zijn. De site is alleen lokaal actief.
+
+UPDATE — FOTOGRAFIE ALS VOLLEDIGE BLOKKEN
+Foto's vullen hero, beeldkolommen en galerijvlakken zonder buitenmarges.
+Galerijen hebben geen gaps of verspringende rijen; captions liggen op het beeld.
+Op mobiel zijn de homebeelden losse blokken over de volledige breedte.
+Gecontroleerd op 390 en 1440 pixels: vijf gewijzigde pagina's zonder
+horizontale overflow of ontbrekende beeldbestanden.
+Screenshots: ../output/playwright/blocks-*.png.

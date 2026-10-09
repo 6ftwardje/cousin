@@ -25,7 +25,7 @@ Pagina-inhoud, services, teamleden, beelden en praktische gegevens staan daar.
 src/render.mjs bevat de pagina-templates; src/styles.css de vormgeving;
 src/main.js de browserinteracties. scripts/build.mjs bevat loadContent():
 de grens waar later een CMS-adapter dezelfde gegevensstructuur kan leveren.
-Een CMS is niet gekozen, geïnstalleerd of vereist. Hosting blijft eveneens open.
+Een CMS is niet gekozen, geïnstalleerd of vereist. Hosting loopt via Netlify.
 Een CMS-koppeling vereist later nog implementatie; deze structuur bereidt ze voor.
 
 ONTWERPRICHTING
@@ -84,9 +84,15 @@ NOG TE BEVESTIGEN
 - Openingsuren: brand.openingHours is null. Later [{"day":"...","hours":"..."}].
 - Eigen fotografie, juridische teksten, analytics/consent en launchconfiguratie.
 
-NIET LIVE
-De basis wordt alleen lokaal getoond. De HTML en robots.txt staan bewust op
-noindex / Disallow. Er is geen deployment, tracking, formulierbackend of CMS.
+HOSTING EN ONTWERPPREVIEW
+Netlify: https://bycousin.netlify.app
+Repository: https://github.com/6ftwardje/cousin
+Pushes naar main starten automatisch een nieuwe build en publicatie.
+netlify.toml stelt Node.js 22, npm run build en de publicatiemap dist in.
+Alleen de bestanden in dist worden gepubliceerd.
+
+Dit blijft een ontwerppreview: de HTML, robots.txt en X-Robots-Tag-header staan
+bewust op noindex / Disallow. Er is geen tracking, formulierbackend of CMS.
 SEO-titels, descriptions en OG-basismetadata zijn aanwezig. Canonical, sitemap,
 OG-image en volledige HairSalon structured data volgen met het definitieve
 domein en bevestigde publieke gegevens. Contact verloopt via tel: en mailto:.

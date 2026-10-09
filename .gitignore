@@ -1,6 +1,7 @@
 dist/
 .DS_Store
 node_modules/
+.netlify/
 .playwright-cli/
 .impeccable/
 .env

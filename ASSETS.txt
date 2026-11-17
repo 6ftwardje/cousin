@@ -19,3 +19,22 @@ https://images.unsplash.com/photo-1562322140-8baeececf3df
 Logo: public/images/cousin-logo.png, aangeleverd door opdrachtgever.
 Font: Manrope, https://fonts.google.com/specimen/Manrope
 Fontlicentie: public/fonts/OFL.txt
+
+AANGELEVERDE PERSFOTO — COUSIN MEETS BUSINESS
+cousin-meets-business.webp en cousin-meets-business-900.webp:
+Aangeleverd door opdrachtgever op 17 november 2026, bij het HLN-artikel
+van 5 oktober 2026 over Bjarne en Gilles en Cousin meets business.
+Fotografie: © Viktor Vervaeke. Fotocredit blijft zichtbaar bij de foto.
+Afgeleid van de aangeleverde PNG; alleen verkleind en omgezet naar WebP.
+Bron: https://www.hln.be/aalter/bjarne-29-en-gilles-23-maken-van-cousin-in-aalter-meer-dan-zomaar-een-kapsalon-ambitieuze-klanten-moeten-elkaar-kunnen-ontmoeten~a552a921/
+
+PORTRET BJARNE
+bjarne.webp: aangeleverd door opdrachtgever op 17 november 2026.
+Origineel: vierkante PNG van 1080 × 1080 px, omgezet naar WebP.
+Gebruikt op de teampagina; geen gegenereerd of stockportret.
+
+HLN-LOGO — OFFICIËLE PNG
+hln-logo.png: afkomstig van de HLN-merkpagina van DPG Media.
+Alleen de transparante buitenmarge verwijderd, zonder het logo te wijzigen.
+Merkpagina: https://www.dpgmediagroup.com/nl-BE/over-dpg-media/merken/hln
+Origineel: https://images.ctfassets.net/765y2hpj99ul/2BCr0nm6MeV5jvBK2U6WV0/d1adb1123994a65609d79b3990f5c1a1/Logo_HLN.png

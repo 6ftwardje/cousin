@@ -30,3 +30,89 @@ Op mobiel zijn de homebeelden losse blokken over de volledige breedte.
 Gecontroleerd op 390 en 1440 pixels: vijf gewijzigde pagina's zonder
 horizontale overflow of ontbrekende beeldbestanden.
 Screenshots: ../output/playwright/blocks-*.png.
+
+UPDATE — AFWERKING EN PERSSECTIE
+17 november 2026
+
+Alle decoratieve nummeringen verwijderd: home, mobiele navigatie,
+paginakoppen, services, waarden, gallery en ontwerpvermelding.
+Kennismakingsblok op home vervangen door HLN-perssectie met korte
+samenvatting, citaat, publicatiedatum, bronlink en aangeleverde foto.
+Responsive WebP-bestanden van 900 en 1800 px; fotocredit Viktor Vervaeke.
+
+Geslaagd: npm run check, JavaScript-syntax en git diff --check.
+Geslaagd: alle 6 routes op 320, 390, 768 en 1440 px: HTTP 200, één h1,
+geen ontbrekende beelden, verborgen tekst of horizontale overflow.
+De te brede Colour.-titel op 320 px is hersteld en gericht opnieuw getest.
+Geslaagd: 15 browserinteracties, waaronder menu openen/sluiten, focustrapping,
+Escape, snelle herhaalde toggles, desktop-resize, boekingsvenster, gallery-
+filters, lightbox, FAQ, HLN-link/credit en prefers-reduced-motion.
+De focus gaat vóór het verbergen terug uit het menu; gerichte controle
+geeft geen consolewaarschuwingen of fouten. Geen JavaScript-fouten.
+De lege lightboxafbeelding uit de ontwerpdetector is verwijderd: de echte
+afbeelding wordt pas bij openen aangemaakt.
+Visuele controle van alle pagina's op desktop en mobiel, plus perssectie,
+mobiel menu en boekingsvenster. Mobiele afspraaktekst heeft twee regels.
+
+Bewijs: ../output/playwright/polish-qa.json en polish-*.png.
+Browsercontrole: Chromium met gesimuleerde schermbreedtes.
+
+UPDATE — EIGEN PORTRET BJARNE
+17 november 2026
+Aangeleverde foto als WebP toegevoegd aan de teampagina. Tijdelijke letter
+en melding dat het portret nog volgt verdwijnen zodra een foto aanwezig is.
+Uitsnede gecontroleerd op 390, 768 en 1440 px; foto laadt correct,
+geen placeholder of horizontale overflow. npm run check geslaagd.
+Screenshots: ../output/playwright/bjarne-team-*.png.
+
+UPDATE — HOMEPAGECOMMENTAREN
+17 november 2026
+Hero-label SFEERBEELD verwijderd. Hero-intro vervangen door een concrete
+beschrijving van de services bij Bjarne en Gilles in Aalter. Alleen de
+aangewezen tekstbalk onder de homegallery verwijderd; de beelden blijven.
+HLN-tekstbadge vervangen door officiële PNG van DPG Media, met bron in ASSETS.txt.
+Gecontroleerd op 390 en 1109 px: nieuw logo laadt, tekst en label zijn
+aangepast, gallery behoudt drie beelden en er is geen horizontale overflow.
+De bestaande in-app preview is vernieuwd. npm run check geslaagd.
+Screenshots: ../output/playwright/hln-logo-*.png.
+
+UPDATE — BEELDLABELS
+17 november 2026
+De term sfeerbeeld overal uit de website verwijderd, inclusief
+alt-teksten, galerijbijschriften, lightbox, filterlabel en ontwerppreview.
+Losse tijdelijke fotomeldingen bij Cousin, services en gallery verwijderd.
+Controle: nul vermeldingen in src, content en alle zes gebouwde pagina's.
+npm run check geslaagd; galerij op 390 en 1109 px zonder overflow,
+met behoud van captions en correcte caption in de lightbox.
+
+UPDATE — NATUURLIJKERE WEBSITETEKSTEN
+17 november 2026
+Alle zes pagina's geredigeerd: concrete informatie, kortere zinnen en
+gewone Nederlandse labels voor behandelingen, galerij, afspraken en contact.
+Ook knoppen, veelgestelde vragen, fotobijschriften, vensters, footer en
+metadata aangepast. De goedgekeurde homepage-intro en merkzin blijven staan.
+HLN-citaat en brongegevens zijn exact behouden. Geen prijzen, openingstijden,
+adressen, ervaring of andere ontbrekende feiten toegevoegd.
+Geslaagd: npm run check, JavaScript-syntax en git diff --check.
+Geslaagd: 24 paginacontroles op 320, 390, 768 en 1440 px, zonder
+horizontale overflow, afgebroken koppen of lege fotobijschriften.
+Geslaagd: afspraakvenster, mobiele navigatie, galerijfilter, lichtboxcaption
+en veelgestelde vragen. Geen JavaScript-fouten.
+Visuele controle van alle pagina's op desktop en mobiel.
+Bewijs: ../output/playwright/copy-qa.json en copy-*.png.
+
+UPDATE — PLAATS VAN HET HLN-ARTIKEL
+17 november 2026
+Persartikel vóór de homegallery geplaatst, na de behandelingen.
+Eigen redactioneel blok met witruimte: tekst links, volledige foto rechts.
+Op tablet en mobiel staat de tekst boven de foto; lees- en DOM-volgorde
+blijven gelijk. Foto met natuurlijke verhouding en marges rondom.
+De bestaande galerij en overige secties blijven behouden.
+Geslaagd: npm run check, JavaScript-syntax en git diff --check.
+Geslaagd: 320, 390, 768, 900, 901, 1109 en 1440 px, zonder overflow.
+Er zit op alle gecontroleerde breedtes minimaal 300 px tussen de persfoto
+en de galerijfoto's, met de galerijkop als duidelijke overgang.
+HLN-logo, artikeltekst, bronlink en fotocredit zijn behouden.
+Impeccable layoutdetector: geen bevindingen. Visuele controle desktop,
+tablet en mobiel. Geen JavaScript-fouten.
+Bewijs: ../output/playwright/press-placement-qa.json en press-placement-*.png.

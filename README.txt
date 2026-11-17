@@ -31,8 +31,8 @@ Een CMS-koppeling vereist later nog implementatie; deze structuur bereidt ze voo
 ONTWERPRICHTING
 Visuele these: warm en editorial, met het saliegroen van het Cousin-logo,
 gebroken wit, donkere fotografie en grote rustige typografie.
-Inhoud: openingsbeeld / merk -> verhaal -> sfeer -> services -> gallery ->
-persoonlijke kennismaking -> afspraak.
+Inhoud: openingsbeeld / merk -> verhaal -> salon -> services ->
+HLN-artikel -> gallery -> afspraak.
 Interactie: gelaagde hero-binnenkomst, subtiele beeldbeweging bij scrollen,
 beeldvergroting en hover-reacties. Geen carrousel of automatische video.
 Manrope wordt lokaal geladen. Het aangeleverde logo staat in public/images/cousin-logo.png.
@@ -66,14 +66,17 @@ fotografie, logo of tekst van deze salons overgenomen. Onderzoeksscreenshots
 staan in het aparte klantdossier en zijn niet opgenomen in deze repository.
 
 BEELDEN EN TYPOGRAFIE
-Fotografie: tijdelijke Unsplash-sfeerbeelden. Geen beelden van Cousin zelf.
+Fotografie: tijdelijke Unsplash-sfeerbeelden, aangevuld met de aangeleverde
+persfoto van Bjarne en Gilles bij Cousin meets business (© Viktor Vervaeke).
+De home bevat een redactionele sectie met een kort citaat en een link naar het
+HLN-artikel van 5 oktober 2026.
 Herkomst: ASSETS.txt. Vervang ze vóór definitieve oplevering door aangeleverde
 salon-, team- en werkfotografie. WebP-versies zijn lokaal geoptimaliseerd.
 Typografie: Manrope (Google Fonts), SIL Open Font License, zie public/fonts/OFL.txt.
 
 NOG TE BEVESTIGEN
 - Definitieve teksten, behandelingen en tarieven: huidige inhoud is een voorstel.
-- Bjarne: definitieve bio en eigen portret; nu een typografische plaatsaanduiding.
+- Bjarne: definitieve bio bevestigen; eigen portret is aangeleverd en toegevoegd.
 - Salonkee-boekingslink: brand.bookingUrl staat op null. CTA's openen daarom
   een contactvenster, zonder een boeking of beschikbaarheid te simuleren.
   Zet bookingUrl op de bevestigde HTTPS-link en bouw opnieuw: alle CTA's linken
